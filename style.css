@@ -24,7 +24,7 @@ body{
     width: 100%;
     display: flex;
     justify-content: space-between;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
 }
 
 .box input{
@@ -41,7 +41,7 @@ body{
 .box button{
     all: unset;
     background: #ee8e46;
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     font-weight:600;
     font-size: 16px;
     padding: 8px 16px;
@@ -63,7 +63,7 @@ body{
 .result h3{
     font-weight: 600;
     color: #294138;
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
 }
 
 .result .word{
